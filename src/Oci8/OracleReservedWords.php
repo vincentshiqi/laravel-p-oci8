@@ -207,7 +207,7 @@ trait OracleReservedWords
         'ISOLATION',
         'ISOLATION_LEVEL',
         'KEEP',
-        'KEY',
+        //'KEY',
         'KILL',
         'LABEL',
         'LAYER',
