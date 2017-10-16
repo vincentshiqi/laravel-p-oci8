@@ -375,7 +375,7 @@ trait OracleReservedWords
         'ROLLBACK',
         'ROW',
         'ROWID',
-        'ROWNUM',
+        //'ROWNUM',
         'ROWS',
         'RULE',
         'SAMPLE',
